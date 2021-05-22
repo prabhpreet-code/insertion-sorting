@@ -1,6 +1,7 @@
 Application of binary search 
 
-You are given the number of pages of n different books. Also, there are m students to whom the books are to be assigned. The books are arranged in ascending order of the number of pages. And every student can be assigned some consecutive books. The program should return the maximum number of pages read by a student which should be minimum.
+You are given the number of pages of n different books. Also, there are m students to whom the books are to be assigned. The books are arranged in ascending order of the 
+number of pages. And every student can be assigned some consecutive books. The program should return the maximum number of pages read by a student which should be minimum.
 
 Let's take an example to understand this problem in a better way,
 
